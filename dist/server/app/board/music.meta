@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/board/layout,_N_T_/board/music/layout,_N_T_/board/music/page,_N_T_/board/music"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/board/music/__PAGE__",
+    "/board/music",
+    "/board",
+    "/_index",
+    "/_head"
+  ]
+}

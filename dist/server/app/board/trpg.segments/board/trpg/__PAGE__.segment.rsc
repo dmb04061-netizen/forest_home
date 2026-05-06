@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[61038,["/_next/static/chunks/06y-49y2gww6n.js","/_next/static/chunks/0jprs_fd_n1y2.js","/_next/static/chunks/01.~nz~dtq~.q.js","/_next/static/chunks/13uawlhbl6.hr.js","/_next/static/chunks/0.u8az516.qbx.js","/_next/static/chunks/04mzn_b9w8ql..js"],"Navigation"]
+3:I[2322,["/_next/static/chunks/06y-49y2gww6n.js","/_next/static/chunks/0jprs_fd_n1y2.js","/_next/static/chunks/01.~nz~dtq~.q.js","/_next/static/chunks/13uawlhbl6.hr.js","/_next/static/chunks/0.u8az516.qbx.js","/_next/static/chunks/04mzn_b9w8ql..js"],"BoardList"]
+4:I[64381,["/_next/static/chunks/06y-49y2gww6n.js","/_next/static/chunks/0jprs_fd_n1y2.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen bg-transparent","children":[["$","$L2",null,{}],["$","main",null,{"className":"w-[95%] md:w-[60%] mx-auto py-8","children":[["$","h1",null,{"className":"text-3xl font-semibold mb-8","children":"TRPG"}],["$","$L3",null,{"category":"board","subcategory":"trpg"}]]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/01.~nz~dtq~.q.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/13uawlhbl6.hr.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/0.u8az516.qbx.js","async":true}],["$","script","script-3",{"src":"/_next/static/chunks/04mzn_b9w8ql..js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"3MUbWYlYpTuOUVXWqarhH"}
+6:null
